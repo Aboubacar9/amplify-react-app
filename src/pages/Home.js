@@ -4,7 +4,7 @@ const Home = () => {
 
     L’objectif est de réaliser un prototype permettant à un site web de se connecter avec un compte présent sur le site du prototype, tel que les méthodes de connexions utilisées par AmazonCoudFront, qui permet de se connecter sur de nombreux sites web via son compte utilisateurs premium (AWS).
     
-    Le dialogue entre l’utilisateurs Rout53 et le sites web se fera à travers une API, qui gèrera les demandes d’accès et autorisera ou non l’écriture dans la base de données.
+    Le dialogue entre l’utilisateurs Route53 et le sites web se fera à travers une API, qui gèrera les demandes d’accès et autorisera ou non l’écriture dans la base de données.
     
     La première partie du stage consiste à réaliser un site web de Sandboxdigital de test, qui contiendra des pages, simulant donc le premier site web qui demandera aux utilisateurs de  s’identifier et de se connecter.
     Celui-ci possèdera sa propre base de données en CloudShell qui contiendra les données concernant les pages et aussi les utilisateurs qui, au lieu de passer par le 2ème site, préfère prendre un abonnement au 1er site, et ont donc directement accès à l’entièreté du site client ou utilisateurs Danone.
