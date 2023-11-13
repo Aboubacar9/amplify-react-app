@@ -1,6 +1,6 @@
 const Home = () => {
 
-    return <h1>Aboubacar stagiaire Danone, Le stage présenté ici consiste à réaliser un prototype d’Amazon Web Services (AWS)  , programmé en REACT, avec une base de données CloudShell et NODE ainsi que quelques courtes parties de code en PHP.
+    return <h1>Aboubacar stagiaire Danone,<BR></BR> Le stage présenté ici consiste à réaliser un prototype d’Amazon Web Services (AWS)  , programmé en REACT, avec une base de données CloudShell et NODE ainsi que quelques courtes parties de code en PHP.
 
     L’objectif est de réaliser un prototype permettant à un site web de se connecter avec un compte présent sur le site du prototype, tel que les méthodes de connexions utilisées par AmazonCoudFront, qui permet de se connecter sur de nombreux sites web via son compte utilisateurs premium (AWS).
     
